@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Live Preview]()
+- [Live Preview](https://lolakk05.github.io/odin-recipes/)
 - [Odin Project](https://www.theodinproject.com/dashboard)
 
 ## About
