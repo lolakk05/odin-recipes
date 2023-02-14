@@ -1,5 +1,12 @@
-# odin-recipes
+# Odin Recipes
 
-Odin-recipes
+## Links
 
-First project from odin.
+- [Live Preview]()
+- [Odin Project]()
+
+## About
+
+Simple webpage made with html, css.
+
+## Screenshots

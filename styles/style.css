@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.recipe {
+  display: flex;
+  justify-content: flex-start;
+  gap: 150px;
+}
+
+p {
+  inline-size: 300px;
+  overflow-wrap: break-word;
+}
